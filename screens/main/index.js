@@ -1,3 +1,4 @@
-export * from "./PostsScreen";
-export * from "./CreatePostsScreen";
-export * from "./ProfileScreen";
+export { PostsScreen } from "./PostsScreen";
+export { CreatePostsScreen } from "./CreatePostsScreen";
+export { ProfileScreen } from "./ProfileScreen";
+export { HomeScreen } from "./Home";
